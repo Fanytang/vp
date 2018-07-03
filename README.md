@@ -1,5 +1,5 @@
 # 演示地址
-  扫描如下二维码
+  扫描二维码
   ![Alt text](./static/img/qr_code.png)
 # 官网重构
 利用vue.js对公司移动端官网进行重构
